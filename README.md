@@ -1,6 +1,6 @@
 # Data_Engineering
-Top-Level Data Engineering Projects covering tools like:
+Top-Level Data Engineering Projects using high in-demand tools and frameworks like:
 
-Python, Apache Airflow, Spark, AWS, PostgreSQL, EMR, among others.
+Python, Databricks ,Apache Airflow, Spark, AWS, PostgreSQL, EMR, GCP, AZURE, DataLake,among others.
 
 
